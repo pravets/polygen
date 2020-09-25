@@ -1,0 +1,24 @@
+{
+  "name": "polygen",
+  "version": "1.0.0",
+  "description": "*.poly/*.geojson file generator for administrative boundaries from OpenStreetMap data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravets/polygen.git"
+  },
+  "keywords": [
+    "OSM",
+    "poly",
+    "geojson"
+  ],
+  "author": "Iosif Pravets <chamaileontas@ya.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pravets/polygen/issues"
+  },
+  "homepage": "https://github.com/pravets/polygen#readme"
+}
